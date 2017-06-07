@@ -9,7 +9,7 @@ import org.slf4j.Marker;
 
 /**
  * The {@link LoggerWrapper} is simply that, a wrapper around a {@link LoggerWrapper}. By itself, it does nothing new, but
- * makes it easier to extend the logger to provide additional functionality.
+ * makes it easier to extend the logger to provide additional functionality.trytrysee
  *
  * <p>
  *     (Basically, couldn't find an appropriate wrapper class, made my own.)
